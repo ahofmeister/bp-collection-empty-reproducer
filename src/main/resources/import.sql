@@ -1,0 +1,1 @@
+insert into food (id) values(1);
